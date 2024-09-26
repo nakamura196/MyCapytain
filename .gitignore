@@ -27,3 +27,5 @@ lxml-3.4.4-py3.4-linux-x86_64.egg/
 /venv*/
 .directory
 python3.5
+
+.venv
